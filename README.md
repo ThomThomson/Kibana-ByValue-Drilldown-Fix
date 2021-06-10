@@ -1,4 +1,4 @@
-# Kibana Hidden Title Fix
+# Kibana By Value Drilldown Fix
 
 ### Issue
 In Kibana 7.13.1, a serious migration bug was introduced. Dashboards that have by value panels with Drilldowns attached would cause the dashboard migration to fail. 
