@@ -8,4 +8,5 @@ This small node program is a workaround for that issue. It takes elasticsearch c
 
 ### How to Run
 `yarn install`
+
 `node index.js`
